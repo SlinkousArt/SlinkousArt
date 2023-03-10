@@ -1,4 +1,4 @@
-hello. I'm slink aka jade. 
+hello. I'm slink
 I use arch btw
 
 
